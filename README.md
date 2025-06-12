@@ -48,8 +48,6 @@ I'm a dedicated developer skilled in building full-stack applications using the 
 
 ---
 
-## 🐍 Snake Game Animation
-
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ---
