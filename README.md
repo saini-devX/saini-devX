@@ -66,7 +66,7 @@ I'm a dedicated developer skilled in building full-stack applications using the 
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️  Quote of the day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
