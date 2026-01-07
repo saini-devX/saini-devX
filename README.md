@@ -59,12 +59,13 @@ I'm a dedicated developer skilled in building full-stack applications using the 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saini-devX&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=saini-devX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+-->
 
 ### ✍️  Quote of the day
 
@@ -72,7 +73,6 @@ I'm a dedicated developer skilled in building full-stack applications using the 
 
 ---
 
----
 
 [![](https://visitcount.itsvg.in/api?id=saini-devX&icon=0&color=0)](https://visitcount.itsvg.in)
 
